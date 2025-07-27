@@ -1,6 +1,6 @@
 ## 🎤 About Me
 
-*Rien à dire, sauf le fait que j’suis un crack.*
+*just better.*
 
 ---
 
@@ -23,7 +23,5 @@
 ## 📊 Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=klxque&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![klxque GitHub Stats](https://github-readme-stats.vercel.app/api?username=klxque&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klxque&layout=compact&theme=radical&hide_border=true)
